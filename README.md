@@ -8,8 +8,7 @@ Here is my progress:
 - 👨‍🎓 I'm currently learning about Image Processing, Machine Learning & Deep learning at University
 - 💻 I'm currently working on Crosshare,inc
 - 🔭 I'm interested in Web Frontend Development
-- 🖊️ I'm currently preparing for graduate school entrance examination
-- 💕 I like React.js, Go, TypeScript
+- 💕 I like React, TypeScript
 ```
 
 **Mainly Tech:**<br>
