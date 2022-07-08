@@ -1,13 +1,13 @@
 ## watagit
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=watagit&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a Web Developer in Yamaguchi 🐡
+I'm a Web Developer in Kyoto
 
 Here is my progress:
 ```
-- 👨‍🎓 I'm currently learning about Image Processing, Machine Learning & Deep learning at University
-- 💻 I'm currently working as a Developer
-- 🔭 I'm interested in Web Frontend Development
+- 👨‍🎓 I'm currently learning about Computer Vision and Computational Photography
+- 💻 I'm currently working as a Developer at startup
+- 🔭 I'm interested in Web Development
 - 💕 I like React, TypeScript
 ```
 
