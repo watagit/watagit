@@ -1,11 +1,11 @@
 ## watagit
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=watagit&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a Web Developer in Kyoto
+I'm a Software Engineer in Fukuoka
 
 Here is my progress:
 ```
-- 💻 I'm currently working as a Developer @DeNA
+- 💻 I'm currently working as a Engineer @DeNA
 ```
 
 **Mainly Tech:**
