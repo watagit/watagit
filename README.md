@@ -5,10 +5,7 @@ I'm a Web Developer in Kyoto
 
 Here is my progress:
 ```
-- 👨‍🎓 I'm currently learning about Computer Vision at NAIST
-- 💻 I'm currently working as a Developer
-- 🔭 I'm interested in Frontend Testing Strategy and Frontend Ops
-- 💕 I like React, TypeScript, Go
+- 💻 I'm currently working as a Developer @DeNA
 ```
 
 **Mainly Tech:**
